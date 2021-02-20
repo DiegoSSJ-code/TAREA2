@@ -1,0 +1,13 @@
+C:\Users\Win10\source\repos\AÑO_BISIESTO\AÑO_BISIESTO\bin\Debug\netcoreapp3.1\AÑO_BISIESTO.exe
+C:\Users\Win10\source\repos\AÑO_BISIESTO\AÑO_BISIESTO\bin\Debug\netcoreapp3.1\AÑO_BISIESTO.deps.json
+C:\Users\Win10\source\repos\AÑO_BISIESTO\AÑO_BISIESTO\bin\Debug\netcoreapp3.1\AÑO_BISIESTO.runtimeconfig.json
+C:\Users\Win10\source\repos\AÑO_BISIESTO\AÑO_BISIESTO\bin\Debug\netcoreapp3.1\AÑO_BISIESTO.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\AÑO_BISIESTO\AÑO_BISIESTO\bin\Debug\netcoreapp3.1\AÑO_BISIESTO.dll
+C:\Users\Win10\source\repos\AÑO_BISIESTO\AÑO_BISIESTO\bin\Debug\netcoreapp3.1\AÑO_BISIESTO.pdb
+C:\Users\Win10\source\repos\AÑO_BISIESTO\AÑO_BISIESTO\obj\Debug\netcoreapp3.1\AÑO_BISIESTO.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\AÑO_BISIESTO\AÑO_BISIESTO\obj\Debug\netcoreapp3.1\AÑO_BISIESTO.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\AÑO_BISIESTO\AÑO_BISIESTO\obj\Debug\netcoreapp3.1\AÑO_BISIESTO.AssemblyInfo.cs
+C:\Users\Win10\source\repos\AÑO_BISIESTO\AÑO_BISIESTO\obj\Debug\netcoreapp3.1\AÑO_BISIESTO.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\AÑO_BISIESTO\AÑO_BISIESTO\obj\Debug\netcoreapp3.1\AÑO_BISIESTO.dll
+C:\Users\Win10\source\repos\AÑO_BISIESTO\AÑO_BISIESTO\obj\Debug\netcoreapp3.1\AÑO_BISIESTO.pdb
+C:\Users\Win10\source\repos\AÑO_BISIESTO\AÑO_BISIESTO\obj\Debug\netcoreapp3.1\AÑO_BISIESTO.genruntimeconfig.cache
