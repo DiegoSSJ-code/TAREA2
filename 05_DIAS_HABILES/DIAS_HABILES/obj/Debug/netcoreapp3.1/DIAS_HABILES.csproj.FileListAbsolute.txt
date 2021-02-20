@@ -1,0 +1,12 @@
+C:\Users\Win10\source\repos\DIAS_HABILES\DIAS_HABILES\obj\Debug\netcoreapp3.1\DIAS_HABILES.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\DIAS_HABILES\DIAS_HABILES\obj\Debug\netcoreapp3.1\DIAS_HABILES.AssemblyInfo.cs
+C:\Users\Win10\source\repos\DIAS_HABILES\DIAS_HABILES\obj\Debug\netcoreapp3.1\DIAS_HABILES.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\DIAS_HABILES\DIAS_HABILES\bin\Debug\netcoreapp3.1\DIAS_HABILES.exe
+C:\Users\Win10\source\repos\DIAS_HABILES\DIAS_HABILES\bin\Debug\netcoreapp3.1\DIAS_HABILES.deps.json
+C:\Users\Win10\source\repos\DIAS_HABILES\DIAS_HABILES\bin\Debug\netcoreapp3.1\DIAS_HABILES.runtimeconfig.json
+C:\Users\Win10\source\repos\DIAS_HABILES\DIAS_HABILES\bin\Debug\netcoreapp3.1\DIAS_HABILES.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\DIAS_HABILES\DIAS_HABILES\bin\Debug\netcoreapp3.1\DIAS_HABILES.dll
+C:\Users\Win10\source\repos\DIAS_HABILES\DIAS_HABILES\bin\Debug\netcoreapp3.1\DIAS_HABILES.pdb
+C:\Users\Win10\source\repos\DIAS_HABILES\DIAS_HABILES\obj\Debug\netcoreapp3.1\DIAS_HABILES.dll
+C:\Users\Win10\source\repos\DIAS_HABILES\DIAS_HABILES\obj\Debug\netcoreapp3.1\DIAS_HABILES.pdb
+C:\Users\Win10\source\repos\DIAS_HABILES\DIAS_HABILES\obj\Debug\netcoreapp3.1\DIAS_HABILES.genruntimeconfig.cache
