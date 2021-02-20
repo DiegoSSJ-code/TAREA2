@@ -1,0 +1,13 @@
+C:\Users\Win10\source\repos\DESCUENTO\DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\DESCUENTO\DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\DESCUENTO\DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.AssemblyInfo.cs
+C:\Users\Win10\source\repos\DESCUENTO\DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\DESCUENTO\DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.exe
+C:\Users\Win10\source\repos\DESCUENTO\DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.deps.json
+C:\Users\Win10\source\repos\DESCUENTO\DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.runtimeconfig.json
+C:\Users\Win10\source\repos\DESCUENTO\DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\DESCUENTO\DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.dll
+C:\Users\Win10\source\repos\DESCUENTO\DESCUENTO\bin\Debug\netcoreapp3.1\DESCUENTO.pdb
+C:\Users\Win10\source\repos\DESCUENTO\DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.dll
+C:\Users\Win10\source\repos\DESCUENTO\DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.pdb
+C:\Users\Win10\source\repos\DESCUENTO\DESCUENTO\obj\Debug\netcoreapp3.1\DESCUENTO.genruntimeconfig.cache
