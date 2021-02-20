@@ -1,0 +1,13 @@
+C:\Users\Win10\source\repos\SALARIOS\SALARIOS\obj\Debug\netcoreapp3.1\SALARIOS.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\SALARIOS\SALARIOS\obj\Debug\netcoreapp3.1\SALARIOS.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\SALARIOS\SALARIOS\obj\Debug\netcoreapp3.1\SALARIOS.AssemblyInfo.cs
+C:\Users\Win10\source\repos\SALARIOS\SALARIOS\obj\Debug\netcoreapp3.1\SALARIOS.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\SALARIOS\SALARIOS\bin\Debug\netcoreapp3.1\SALARIOS.exe
+C:\Users\Win10\source\repos\SALARIOS\SALARIOS\bin\Debug\netcoreapp3.1\SALARIOS.deps.json
+C:\Users\Win10\source\repos\SALARIOS\SALARIOS\bin\Debug\netcoreapp3.1\SALARIOS.runtimeconfig.json
+C:\Users\Win10\source\repos\SALARIOS\SALARIOS\bin\Debug\netcoreapp3.1\SALARIOS.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\SALARIOS\SALARIOS\bin\Debug\netcoreapp3.1\SALARIOS.dll
+C:\Users\Win10\source\repos\SALARIOS\SALARIOS\bin\Debug\netcoreapp3.1\SALARIOS.pdb
+C:\Users\Win10\source\repos\SALARIOS\SALARIOS\obj\Debug\netcoreapp3.1\SALARIOS.dll
+C:\Users\Win10\source\repos\SALARIOS\SALARIOS\obj\Debug\netcoreapp3.1\SALARIOS.pdb
+C:\Users\Win10\source\repos\SALARIOS\SALARIOS\obj\Debug\netcoreapp3.1\SALARIOS.genruntimeconfig.cache
